@@ -1,5 +1,10 @@
-Lambda functions are brief, anonymous functions in Python, ideal for simple, one-time tasks. 
-They are defined by the lambda keyword, and they use the following syntax:
+INTRO:
+Lambda functions give us a concise way to write small, throwaway functions in our code.
+
+In this project, we'll explore the power of Lambda Functions by creating an expense tracker. Our resulting app will demonstrate how we can use Lambda Functions 
+for efficient, streamlined operations.
+
+Lambda functions are brief, anonymous functions in Python, ideal for simple, one-time tasks. They are defined by the lambda keyword, and they use the following syntax:
 
 lambda x: expr
 
