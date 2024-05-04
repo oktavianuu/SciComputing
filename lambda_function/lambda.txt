@@ -1,0 +1,12 @@
+Lambda functions are brief, anonymous functions in Python, ideal for simple, one-time tasks. 
+They are defined by the lambda keyword, and they use the following syntax:
+
+lambda x: expr
+
+In the example above, x is a parameter to be used in the expression expr.
+
+Lambda functions can be valuably combined with the map() function, which executes a specified function for each element in a collection of objects, such as a list:
+map(lambda x: x * 2, [1, 2, 3])
+the function above will result:
+[2, 4, 6]
+
